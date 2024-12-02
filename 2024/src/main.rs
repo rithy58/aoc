@@ -1,3 +1,6 @@
+mod calendar;
+use calendar::*;
+
 fn main() {
-    println!("Hello, world!");
+    day01();
 }
